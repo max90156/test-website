@@ -79,7 +79,7 @@ content:
         quote: >
           以台大為底圖的大富翁
         description: | # this will include new lines to allow paragraphs
-          ![image](/images/大富翁.png)
+          ![image](./images/大富翁.png)
           以台大校園為基底的大富翁遊戲，其中的遊戲元素都採用台大校園裡的東西，比方說可以買下總圖、人物有教授和助教、事件有獲得獎學金之類的。
   - title: Experience
     layout: list
