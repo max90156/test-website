@@ -132,7 +132,34 @@ content:
         caption: 2019
         description: |
           ![image](./images/AMC12.jpeg)
-        
+      - layout: top-left
+        title: 台灣區高中數學競賽
+        sub_title: (TRML)
+        caption: 2019
+        description: |
+          代表東山高中以亂插隊之名參加TRML
+          ![image](./images/TRML.jpg)
+      - layout: top-left
+        title: TOEIC® Listening and Reading Test
+        caption: 2019
+        description: |
+          ![image](./images/多益.jpeg)
+      - layout: top-left
+        title: 泳渡日月潭
+        caption: 2016
+        description: |
+          ![image](./images/日月潭.jpeg)
+      - layout: top-left
+        title: 登頂合歡群峰
+        caption: 2015
+        description: |
+          ![image](./images/合歡山.jpeg)
+      - layout: top-left
+        title: 登頂雪山主峰
+        caption: 2014
+        description: |
+          ![image](./images/雪山.jpeg)
+       
     
 # Footer
 footer_show_references: true
