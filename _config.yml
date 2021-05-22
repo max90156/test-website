@@ -70,12 +70,12 @@ content:
         link: https://github.com/Idonotwant/Final-Project #(eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: GitHub連結
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: EasterEgg
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            url: https://www.youtube.com/watch?v=072tU1tamd0&ab_channel=MajimaMajima
+          - title:  EasterEgg
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://www.youtube.com/watch?v=072tU1tamd0&ab_channel=MajimaMajima
         quote: >
           以台大為底圖的大富翁
         description: | # this will include new lines to allow paragraphs
