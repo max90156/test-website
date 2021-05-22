@@ -85,7 +85,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: 雨林新零售
         sub_title: Intern
         caption: 2020 summer vacation
@@ -97,7 +97,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: National Taiwan University
         sub_title: Mathematics
         caption: 2020 - 2024? (希望不要延畢)
