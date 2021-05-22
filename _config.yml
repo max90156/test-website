@@ -107,6 +107,13 @@ content:
           NTU's institutional predecessor was Taihoku Imperial University, founded in 1928 by the Japanese colonial administration.
         description: | # this will include new lines to allow paragraphs
           在台大求學
+      - layout: list
+        title: Taipei Private Dongshan High School
+        caption: 2017 - 2020
+        description: |
+          asd
+          
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
