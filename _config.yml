@@ -66,9 +66,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: 台大大富翁
+        link: https://github.com/Idonotwant/Final-Project #(eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: GitHub連結
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -77,9 +77,10 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          以台大為底圖的大富翁
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          ![image](/images/大富翁.png)
+          以台大校園為基底的大富翁遊戲，其中的遊戲元素都採用台大校園裡的東西，比方說可以買下總圖、人物有教授和助教、事件有獲得獎學金之類的。
   - title: Experience
     layout: list
     content:
