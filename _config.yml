@@ -80,26 +80,27 @@ content:
           以台大為底圖的大富翁
         description: | # this will include new lines to allow paragraphs
           ![image](./images/大富翁.png)
+          
           以台大校園為基底的大富翁遊戲，其中的遊戲元素都採用台大校園裡的東西，比方說可以買下總圖、人物有教授和助教、事件有獲得獎學金之類的。
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: 雨林新零售
+        sub_title: Intern
+        caption: 2020 summer vacation
+        link: https://www.rainforestretail.com.tw/
         quote: >
-          Short description of the company (optional)
+          雨林新零售 就像是品牌零售商的經紀人
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          在雨林實習的過程中，我負責整理並分析過往各個平台的商品活動。讓我印象最深刻的是雨林舒服的工作環境，開放式的空間就像在一個咖啡廳。
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: National Taiwan University
+        sub_title: Mathematics
+        caption: 2020 - 2024? (希望不要延畢)
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
