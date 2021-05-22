@@ -52,7 +52,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: my_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Max and I'm a freshman in the [Department of Mathematics](http://www.math.ntu.edu.tw/)
+  Hi, my name's Max and I'm a freshman in the [Department of Mathematics](http://www.math.ntu.edu.tw/) at National Taiwan University.
+  
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -102,9 +103,9 @@ content:
         sub_title: Mathematics
         caption: 2020 - 2024? (希望不要延畢)
         quote: >
-          Short institution or course description (optional)
+          NTU's institutional predecessor was Taihoku Imperial University, founded in 1928 by the Japanese colonial administration.
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          在台大求學
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
