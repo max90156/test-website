@@ -54,7 +54,7 @@ about_profile_image: my_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Max and I'm a freshman in the [Department of Mathematics](http://www.math.ntu.edu.tw/) at National Taiwan University.
   
-  大家好。我是台大數學系的廖文立。
+  大家好，我是台大數學系的廖文立。
 
 content:
   - title: Projects # Title for the section
