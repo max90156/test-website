@@ -16,7 +16,7 @@ website: max97155
 website_title: Line
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: 
 
 # Social links
 #twitter_username: jekyllrb
