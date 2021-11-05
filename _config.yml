@@ -80,7 +80,7 @@ content:
           大富翁算是一款滿經典的童玩遊戲，老少咸宜，從一開始的桌上型遊戲，到後來有很多相關的電腦遊戲。
           所以我們設計了一個以台大校園為基底的大富翁遊戲，其中的遊戲元素都採用台大校園裡的東西，比方說可以買下總圖、人物有教授和助教、事件有獲得獎學金之類的。
       - layout: left
-        title: 利用PhotoShop合成影像
+        title: 用PhotoShop合成影像
         sub_title: 原始圖片
         additional_links:
           - title: Portrait
@@ -90,9 +90,13 @@ content:
             icon: fab fa-github
             url: https://imgur.com/gallery/gxuB6Kh
         quote: >
-          
+          以下為合成的圖片
         description: | # this will include new lines to allow paragraphs
-          ![image](./images/大富翁.png)
+          ![image](./images/合成作業01.png)
+        quote: >
+          以下為自己畫的素描
+        description: | # this will include new lines to allow paragraphs
+          ![image](./images/IMG_3522.JPG)
   - title: Experience
     layout: list
     content:
