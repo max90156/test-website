@@ -93,6 +93,7 @@ content:
           以下為合成的圖片
         description: | # this will include new lines to allow paragraphs
           ![image](./images/合成作業01.png)
+      - layout: left
         quote: >
           以下為自己畫的素描
         description: | # this will include new lines to allow paragraphs
