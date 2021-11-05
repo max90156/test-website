@@ -205,7 +205,7 @@ content:
     
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: Do not share my website
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
