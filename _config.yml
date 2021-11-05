@@ -89,9 +89,12 @@ content:
           - title:  Dragon
             icon: fab fa-github
             url: https://imgur.com/gallery/gxuB6Kh
-          - title: hi
+          - title: Tsunami
             icon: fab fa-github
-            url: https://imgur.com/gallery/Ger0dry
+            url: https://imgur.com/gallery/Zi1NCVd
+          - title: Kraken
+            icon: fab fa-github
+            url: https://imgur.com/gallery/FcfhNup
         quote: >
           以下為合成的圖片
         description: | # this will include new lines to allow paragraphs
