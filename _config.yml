@@ -89,6 +89,9 @@ content:
           - title:  Dragon
             icon: fab fa-github
             url: https://imgur.com/gallery/gxuB6Kh
+          - title: hi
+            icon: fab fa-github
+            url: https://imgur.com/gallery/Ger0dry
         quote: >
           以下為合成的圖片
         description: | # this will include new lines to allow paragraphs
@@ -98,6 +101,16 @@ content:
           以下為自己畫的素描
         description: | # this will include new lines to allow paragraphs
           ![image](./images/IMG_3522.JPG)
+      - layout: left
+        quote: > 
+          以下為合成的圖片
+        description: |
+          ![image](./images/合成練習.png)
+      - layout: left
+        quote: > 
+          以下為用PS電繪的圖片
+        description: |
+          ![image](./images/美人魚電繪.png)
   - title: Experience
     layout: list
     content:
