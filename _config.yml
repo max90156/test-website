@@ -114,6 +114,14 @@ content:
           以下為用 PS 電繪的圖片
         description: |
           ![image](./images/美人魚電繪.png)
+      - layout: left
+        title: 使用iMovie剪輯影片 
+        link: https://youtu.be/GeQjouNv24w
+        link_text: 影片連結
+        quote: >
+          網路知名迷因合集
+        description: | # this will include new lines to allow paragraphs
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/GeQjouNv24w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - title: Experience
     layout: list
     content:
