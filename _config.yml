@@ -34,10 +34,10 @@ instagram_username: liao_maxieee
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: YouTube
-  icon: fab fa-youtube
-  url: https://www.youtube.com/watch?v=072tU1tamd0&ab_channel=MajimaMajima
+#additional_links:
+#- title: YouTube
+ # icon: fab fa-youtube
+ # url: 
 #- title: another link
  # icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #  url: Link url (eg. https://google.com)
@@ -63,7 +63,7 @@ content:
       - layout: top-left
         title: National Taiwan University
         sub_title: Mathematics
-        caption: 2020 - 2024? (希望不要延畢)
+        caption: 2020 - Now
         quote: >
           NTU's institutional predecessor was Taihoku Imperial University, founded in 1928 by the Japanese colonial administration.
         description: | # this will include new lines to allow paragraphs
@@ -81,7 +81,32 @@ content:
         quote: > 
           Kang Chiao brings me the world
         description: |
-          在康橋的這些年可以說是人生中最快樂的日子，幾乎沒有課業壓力。
+          我在康橋認識了很多朋友，到現在還是每天一起玩遊戲。
+          
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: 雨林新零售
+        sub_title: Intern
+        caption: 2020 summer vacation
+        link: https://www.rainforestretail.com.tw/
+        quote: >
+          雨林新零售 就像是品牌零售商的經紀人
+        description: | # this will include new lines to allow paragraphs
+          在雨林實習的過程中，我負責整理並分析過往各個平台的商品活動。讓我印象最深刻的是雨林舒服的工作環境，開放式的空間就像在一個咖啡廳。
+      - layout: left
+        title: 帆宣系統科技的「華南銀行」建案
+        sub_title: Intern
+        caption: 2021 summer vacation
+        link: https://www.micb2b.com/about/introduction/
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          在帆宣實習的期間，我在工務所負責整理資料和製作自主檢查表及每日報告，而在工地時，我擔任工程師的助手，協助他們完成任務。每天去上班回家後都灰頭土臉，非常疲憊，但是這個經驗讓我的暑假過得十分充實。
+          
+          ![image](./images/IMG_7463.JPG)
+
+          
           
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -90,13 +115,13 @@ content:
         title: 台大大富翁
         link: https://github.com/Idonotwant/Final-Project #(eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: GitHub連結
-        additional_links:
-          - title: EasterEgg
-            icon: fab fa-github
-            url: https://www.youtube.com/watch?v=072tU1tamd0&ab_channel=MajimaMajima
-          - title:  EasterEgg
-            icon: fab fa-github
-            url: https://www.youtube.com/watch?v=072tU1tamd0&ab_channel=MajimaMajima
+        #additional_links:
+         # - title: EasterEgg
+          #  icon: fab fa-github
+           # url: https://www.youtube.com/watch?v=072tU1tamd0&ab_channel=MajimaMajima
+         # - title:  EasterEgg
+          #  icon: fab fa-github
+           # url: https://www.youtube.com/watch?v=072tU1tamd0&ab_channel=MajimaMajima
         quote: >
           以台大為底圖的大富翁
         description: | # this will include new lines to allow paragraphs
@@ -148,30 +173,7 @@ content:
           網路知名迷因合集
         description: | # this will include new lines to allow paragraphs
           <iframe width="560" height="315" src="https://www.youtube.com/embed/GeQjouNv24w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: 雨林新零售
-        sub_title: Intern
-        caption: 2020 summer vacation
-        link: https://www.rainforestretail.com.tw/
-        quote: >
-          雨林新零售 就像是品牌零售商的經紀人
-        description: | # this will include new lines to allow paragraphs
-          在雨林實習的過程中，我負責整理並分析過往各個平台的商品活動。讓我印象最深刻的是雨林舒服的工作環境，開放式的空間就像在一個咖啡廳。
-      - layout: left
-        title: 帆宣系統科技的「華南銀行」建案
-        sub_title: Intern
-        caption: 2021 summer vacation
-        link: https://www.micb2b.com/about/introduction/
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
-          在帆宣實習的期間，我在工務所負責整理資料和製作自主檢查表及每日報告，而在工地時，我擔任工程師的助手，協助他們完成任務。每天去上班回家後都灰頭土臉，非常疲憊，但是這個經驗讓我的暑假過得十分充實。
-          
-          ![image](./images/IMG_7463.JPG)
 
-          
   - title: A Little More About Me
     layout: list
     content: 
