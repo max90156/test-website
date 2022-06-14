@@ -57,6 +57,32 @@ about_content: | # this will include new lines to allow paragraphs
   大家好，我是[台大數學系](http://www.math.ntu.edu.tw/)的廖文立。
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-left
+        title: National Taiwan University
+        sub_title: Mathematics
+        caption: 2020 - 2024? (希望不要延畢)
+        quote: >
+          NTU's institutional predecessor was Taihoku Imperial University, founded in 1928 by the Japanese colonial administration.
+        description: | # this will include new lines to allow paragraphs
+          在台大求學日子很艱辛，我在這認識到了很多優秀的朋友。
+      - layout: top-left
+        title: Taipei Private Dongshan High School
+        caption: 2017 - 2020
+        description: |
+          在東山的這些日子可以說是壓力山大，有很多強大的競爭對手，還有留到晚上9點的晚自習。在準備指考的這最後幾個月，應該是我人生中最用功的日子了。
+          
+          我很榮幸的成為了東山高中戲劇社的創社元老，並獲得了第一屆最佳演員獎。
+      - layout: top-left
+        title: Kang Chiao International School
+        caption: 2008 - 2017
+        quote: > 
+          Kang Chiao brings me the world
+        description: |
+          在康橋的這些年可以說是人生中最快樂的日子，幾乎沒有課業壓力。
+          
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -144,32 +170,7 @@ content:
           在帆宣實習的期間，我在工務所負責整理資料和製作自主檢查表及每日報告，而在工地時，我擔任工程師的助手，協助他們完成任務。每天去上班回家後都灰頭土臉，非常疲憊，但是這個經驗讓我的暑假過得十分充實。
           
           ![image](./images/IMG_7463.JPG)
-  - title: Education
-    layout: list
-    content:
-      - layout: top-left
-        title: National Taiwan University
-        sub_title: Mathematics
-        caption: 2020 - 2024? (希望不要延畢)
-        quote: >
-          NTU's institutional predecessor was Taihoku Imperial University, founded in 1928 by the Japanese colonial administration.
-        description: | # this will include new lines to allow paragraphs
-          在台大求學日子很艱辛，我在這認識到了很多優秀的朋友。
-      - layout: top-left
-        title: Taipei Private Dongshan High School
-        caption: 2017 - 2020
-        description: |
-          在東山的這些日子可以說是壓力山大，有很多強大的競爭對手，還有留到晚上9點的晚自習。在準備指考的這最後幾個月，應該是我人生中最用功的日子了。
-          
-          我很榮幸的成為了東山高中戲劇社的創社元老，並獲得了第一屆最佳演員獎。
-      - layout: top-left
-        title: Kang Chiao International School
-        caption: 2008 - 2017
-        quote: > 
-          Kang Chiao brings me the world
-        description: |
-          在康橋的這些年可以說是人生中最快樂的日子，幾乎沒有課業壓力。
-          
+
           
   - title: A Little More About Me
     layout: list
