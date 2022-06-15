@@ -128,6 +128,18 @@ content:
          # 雨林新零售 就像是品牌零售商的經紀人
       #  description: | # this will include new lines to allow paragraphs
        #   在雨林實習的過程中，我負責整理並分析過往各個平台的商品活動。讓我印象最深刻的是雨林舒服的工作環境，開放式的空間就像在一個咖啡廳。
+       
+      - layout: top-middle
+        title: Python
+        sub_title: 中等
+        
+        - layout: top-middle
+        title: Photoshop
+        sub_title: 略懂
+        
+      - layout: top-middle
+        title: Excel
+        sub_title: 中等
           
           
   - title: Projects # Title for the section
