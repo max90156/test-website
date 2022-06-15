@@ -111,7 +111,7 @@ content:
     content:
       - layout: top-middle
         title: English
-        sub_title: Language
+        sub_title: 精通
        # caption: July - September 2020
        # link: https://www.rainforestretail.com.tw/
        # quote: >
@@ -121,7 +121,7 @@ content:
           
       - layout: top-middle
         title: 日本語
-        sub_title: Language
+        sub_title: 略懂
        # caption: July - September 2020
         #link: https://www.rainforestretail.com.tw/
         #quote: >
