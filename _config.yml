@@ -140,8 +140,15 @@ content:
       - layout: top-middle
         title: Excel
         sub_title: 中等
-          
-          
+        
+        - layout: top-middle
+        title: Word
+        sub_title: 中等
+        
+        - layout: top-middle
+        title: PowerPoint
+        sub_title: 中等
+                    
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
