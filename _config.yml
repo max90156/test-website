@@ -109,7 +109,6 @@ content:
   - title: Skills
     layout: list
     content:
- 
       - layout: top-middle
         title: Python
         sub_title: 中等
@@ -130,7 +129,7 @@ content:
         title: PowerPoint
         sub_title: 中等
         
-  - title: Language
+  - title: Languages
     layout: list
     content:
       - layout: top-middle
