@@ -111,9 +111,9 @@ content:
     content:
       - layout: left
         title: English
-        sub_title: Intern
-        caption: July - September 2020
-        link: https://www.rainforestretail.com.tw/
+        sub_title: Language
+       # caption: July - September 2020
+       # link: https://www.rainforestretail.com.tw/
         quote: >
           雨林新零售 就像是品牌零售商的經紀人
         description: | # this will include new lines to allow paragraphs
