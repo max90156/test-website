@@ -69,21 +69,21 @@ content:
         quote: >
           NTU's institutional predecessor was Taihoku Imperial University, founded in 1928 by the Japanese colonial administration.
         description: | # this will include new lines to allow paragraphs
-          在台大求學日子很有挑戰性，我在這認識到了很多優秀的朋友。
+          在台大念書每天都是充滿挑戰的日子，每一位同學都是菁英中的菁英，因此也激勵我不斷地吸收更多新知識。
       - layout: top-left
         title: Taipei Private Dongshan High School
         caption: 2017 - 2020
         description: |
-          在東山的這些日子可以說是壓力山大，有很多強大的競爭對手，還有留到晚上9點的晚自習。在準備指考的這最後幾個月，應該是我人生中最用功的日子了。
+          由於東山高中三年良好的教育環境與學習訓練，讓我在準備學測與指考時，有效規劃時間和衝刺進度，進而考上台灣第一學府。
           
-          我很榮幸的成為了東山高中戲劇社的創社元老，並獲得了第一屆最佳演員獎。
+          在東山的日子中，我很榮幸的成為了東山高中戲劇社的創社元老，並獲得了第一屆最佳演員獎。
       - layout: top-left
         title: Kang Chiao International School
         caption: 2008 - 2017
         quote: > 
           Kang Chiao brings me the world
         description: |
-          我在康橋認識了很多朋友，到現在還是維持良好的友誼。
+          康橋的雙語教學奠定了我英文扎實的基礎，此外，在康橋就學時，我也常參加慈善募款活動及各種戶外運動。
           
   - title: Experience
     layout: list
@@ -104,7 +104,7 @@ content:
         link: https://www.micb2b.com/about/introduction/
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          在帆宣實習的期間，我在工務所負責整理資料和製作自主檢查表及每日報告，而在工地時，我擔任工程師的助手，協助他們完成任務。這個經驗讓我的暑假過得十分充實。
+          在帆宣實習的期間，我在工務所負責整理資料和製作自主檢查表及每日報告，而在工地時，我擔任工程師的助手，協助他們完成各項任務。這些都是非常難得的經驗。
           
           ![image](./images/IMG_7463.JPG)
           
