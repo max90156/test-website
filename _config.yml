@@ -10,10 +10,10 @@ name: 廖文立
 title: Max Liao
 email: max90156@gmail.com
 email_title: Email
-phone: 0934085448
-phone_title: Mobile
-website: max97155
-website_title: Line
+#phone: 0934085448
+#phone_title: Mobile
+#website: max97155
+#website_title: Line
 
 # Dark Mode (true/false/never)
 darkmode: true
